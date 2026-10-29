@@ -80,7 +80,7 @@ export function Couple() {
             <span className="font-script text-gold animate-float-soft text-5xl">&amp;</span>
           </div>
           <Parallax speed={-26}>
-            <Person person={wedding.bride} role="The Bride" flip />
+            <Person person={wedding.bride} role="The Bride" />
           </Parallax>
         </div>
       </div>
