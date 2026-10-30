@@ -44,7 +44,7 @@ export function Hero() {
         alt=""
         aria-hidden
         style={{ y: garlandY }}
-        className="pointer-events-none absolute -top-2 left-1/2 w-[135%] max-w-none -translate-x-1/2 opacity-90"
+        className="pointer-events-none absolute -top-2 left-1/2 w-[135%] max-w-none -translate-x-1/2 opacity-100 drop-shadow-[0_8px_16px_rgba(0,0,0,0.35)]"
       />
 
       <div className="relative z-10 mx-auto flex w-full max-w-md flex-1 flex-col items-center px-6 pt-32 text-center">
